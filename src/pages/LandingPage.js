@@ -37,9 +37,8 @@ const LandingPage = () => {
 					<br className='hidden sm:block' /> <span>for now</span>
 				</h1>
 				<p className='text-lightText mt-6 text-base sm:text-lg md:text-xl leading-relaxed max-w-2xl'>
-					Smart, Seamless, and built around your lifestyle.
+					Not Just Bill Payment — It's Bill Profitment
 					<br className='hidden sm:block' />
-					The true feel of a modern payment app.
 				</p>
 
 				<div className='mt-10 flex flex-col sm:flex-row gap-4 mb-20'>

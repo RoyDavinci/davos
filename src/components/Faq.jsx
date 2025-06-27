@@ -6,39 +6,63 @@ import { FaPlus, FaMinus } from "react-icons/fa";
 const faqData = [
 	{
 		id: 1,
-		question: "What is Instacredit?",
+		question: "What is InstantCredit?",
 		answer:
-			"Instacredit is a platform designed to provide quick and reliable credit solutions to individuals and businesses. We aim to simplify the lending process.",
+			"InstantCredit is a bill payment app that rewards you with real instant cashback every time you pay for services like airtime, data, electricity, TV subscriptions, internet, or even betting top-ups.",
 	},
 	{
 		id: 2,
-		question: "Is Instacredit available worldwide?",
+		question: "What kind of bills can I pay with InstantCredit?",
 		answer:
-			"No, Instacredit is currently available nationwide within Nigeria. We are working on expanding our services to other regions in the future.",
+			"You can pay for:\n- Airtime & Data (MTN, Glo, Airtel, 9mobile)\n- Electricity (PHCN/NEPA)\n- Cable TV (DStv, GOtv, Startimes)\n- Internet/WiFi subscriptions\n- Betting account top-ups (e.g. Bet9ja, SportyBet, etc.)",
 	},
 	{
 		id: 3,
-		question: "Which cryptocurrencies are supported on Instacredit?",
+		question: "How does the cashback work?",
 		answer:
-			"Instacredit does not directly support cryptocurrencies for lending or borrowing. Our services are based on traditional fiat currencies.",
+			"Simple: every time you perform a transaction on the app, we give you instant cashback into your wallet — no waiting, no points, just real cash you can use to pay for your next bill.",
 	},
 	{
 		id: 4,
-		question: "Is my personal information secure within Instacredit?",
+		question: "Can I use the cashback to pay other bills?",
 		answer:
-			"Yes, we prioritize the security of your personal information. We use industry-standard encryption and security protocols to protect your data.",
+			"Yes o! That’s the beauty of it. You can use your accumulated cashback to pay for airtime, electricity, data, or any other service on the app. It’s like getting paid to pay your bills.",
 	},
 	{
 		id: 5,
-		question: "Are there any deposit or withdrawal fees?",
+		question: "Is there a referral program?",
 		answer:
-			"Instacredit has transparent fee structures. Specific details regarding deposit and withdrawal fees, if any, will be clearly communicated during your transaction.",
+			"Absolutely. If you refer someone to the app, and they start using it, you earn cashback every time they buy data or airtime — for 6 whole months! 😎",
 	},
 	{
 		id: 6,
-		question: "Does Instacredit offer advanced trading tools?",
+		question: "Is there a limit to how many people I can refer?",
 		answer:
-			"No, Instacredit focuses on credit and lending services, not advanced trading tools for financial markets.",
+			"Nope! Refer your friends, your classmates, your siblings, your entire compound — there’s no limit to how many people you can refer or how much cashback you can earn from them.",
+	},
+	{
+		id: 7,
+		question: "How do I get my referral link?",
+		answer:
+			"Download the app, create your account, and perform one transaction (like buying airtime). After that, your unique referral link will be activated in the app for sharing.",
+	},
+	{
+		id: 8,
+		question: "Where can I download the InstantCredit app?",
+		answer:
+			"You can download the app from:\n- Google Play Store (for Android users)\n- Apple App Store (for iOS/iPhone users)",
+	},
+	{
+		id: 9,
+		question: "Is the app safe to use?",
+		answer:
+			"Yes, InstantCredit uses secure payment gateways and protects your information with best-in-class security standards. Your money and data are safe with us.",
+	},
+	{
+		id: 10,
+		question: "Can I withdraw my cashback to my bank account?",
+		answer:
+			"Yes, you can! 🎉 Your cashback goes straight into your InstantCredit wallet, and from there, you can either use it to pay bills within the app or withdraw it directly to your bank account. Your money, your rules. 💸",
 	},
 ];
 

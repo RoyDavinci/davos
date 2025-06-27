@@ -26,13 +26,6 @@ const FeaturesSection = () => {
 				<p className='text-sm text-gray-400'>
 					Always by <span className='text-orange-500'>your side</span>
 				</p>
-				<h2 className='text-3xl md:text-4xl font-bold mt-2 mb-3'>
-					Be the first to use Instacredit!
-				</h2>
-				<p className='text-gray-400 text-sm'>
-					Get faster, safer, more affordable cloud object storage with no
-					central point of failure.
-				</p>
 			</div>
 			<div className='bg-gradient-to-b from-[#111111] to-black border border-[#222] rounded-2xl p-6 max-w-6xl mx-auto shadow-md'>
 				<div className='flex flex-col md:flex-row items-center justify-between gap-10'>
@@ -44,7 +37,7 @@ const FeaturesSection = () => {
 						</div>
 						<h3 className='text-lg font-semibold mb-1'>Cashback</h3>
 						<p className='text-sm text-gray-400'>
-							Learn blockchain and crypto for free.
+							Earn cash for every transaction
 						</p>
 					</div>
 					<div className='text-center flex-1'>
@@ -55,7 +48,7 @@ const FeaturesSection = () => {
 						</div>
 						<h3 className='text-lg font-semibold mb-1'>24/7 Support</h3>
 						<p className='text-sm text-gray-400'>
-							Need help? Get your requests solved quickly via support team.
+							We are here to help when you need it
 						</p>
 					</div>
 					<div className='text-center flex-1'>
@@ -66,7 +59,7 @@ const FeaturesSection = () => {
 						</div>
 						<h3 className='text-lg font-semibold mb-1'>Security</h3>
 						<p className='text-sm text-gray-400'>
-							A topnotch security created to make you sleep easy.
+							This app was developed with topnotch security controls
 						</p>
 					</div>
 				</div>
